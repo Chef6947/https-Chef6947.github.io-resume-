@@ -1,19 +1,28 @@
-<style>
-  /* Select the element(s) you want to style */
-  h1 {
-    /* Define the styles you want to apply */
-    color: red;
-    font-size: 36px;
-    font-weight: bold;
-    text-align: center;
-  }
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
 
-  p {
-    color: blue;
-    font-size: 18px;
-    line-height: 1.5;
-    text-align: justify;
-  }
+h1 {
+  font-size: 2em;
+  font-weight: initial;
+  margin: 0;
+}
 
-  /* Add more styles as needed */
-</style>
+p {
+  font-size: 1em;
+  line-height: 1.5;
+  margin: 0 0 1em 0;
+}
+
+a {
+  color: #0000ff;
+  text-decoration: solid;
+}
+
+a:hover {
+  text-decoration: underline;
+}
