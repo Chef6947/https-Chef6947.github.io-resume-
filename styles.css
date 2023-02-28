@@ -1,21 +1,21 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #ffffff;
-  color: #000000;
+  color: #0000ff;
   margin: 0;
   padding: 0;
 }
 
 h1 {
   font-size: 2em;
-  font-weight: initial;
+  font-weight: normal;
   margin: 0;
 }
 
 p {
   font-size: 1em;
   line-height: 1.5;
-  margin: 0 0 1em 0;
+  margin: 1 1 1em 2;
 }
 
 a {
