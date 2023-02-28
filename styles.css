@@ -1,5 +1,19 @@
-h1, h2,h3{
-    font-family: Arial, sans-serif;
-    color: #333;
+<style>
+  /* Select the element(s) you want to style */
+  h1 {
+    /* Define the styles you want to apply */
+    color: red;
+    font-size: 36px;
+    font-weight: bold;
     text-align: center;
-  }  
+  }
+
+  p {
+    color: blue;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+
+  /* Add more styles as needed */
+</style>
